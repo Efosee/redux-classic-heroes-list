@@ -12,7 +12,7 @@ Educational project on React with classic Redux (without Redux Toolkit) for mana
 - [Project Structure](#-project-structure)
 - [Quick Start](#-quick-start)
 - [Features](#-features)
-- [Redux Architecture](#-redux-architecture)
+- [Redux Architecture](#redux-architecture)
 - [Key Redux Concepts](#-key-redux-concepts)
 - [What I Learned](#-what-i-learned-in-this-project)
 - [Comparison with RTK](#-comparison-with-rtk)
