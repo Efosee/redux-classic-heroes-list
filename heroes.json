@@ -1,0 +1,41 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Первый герой",
+      "description": "Первый герой в рейтинге!",
+      "element": "fire"
+    },
+    {
+      "name": "Екатерина",
+      "description": "Супер бухглатре",
+      "element": "earth",
+      "id": "4adc4cad-f850-49e0-bf09-bc7704725f76"
+    },
+    {
+      "name": "Водица",
+      "description": "Упиваться",
+      "element": "water",
+      "id": "12453a4b-5632-423e-8bd4-7f04bcc49fc4"
+    },
+    {
+      "name": "Виолетта",
+      "description": "Плохо учусь как никто другой!",
+      "element": "water",
+      "id": "c75a85db-87d0-4e66-bcce-043c8f8e5d48"
+    },
+    {
+      "name": "Вендор",
+      "description": "Предсказывать прогнозы",
+      "element": "wind",
+      "id": "7213e43e-afb5-438b-9155-c5390d874106"
+    }
+  ],
+  "filters": {
+    "all": "Все",
+    "fire": "Огонь",
+    "water": "Вода",
+    "wind": "Ветер",
+    "earth": "Земля"
+  }
+}

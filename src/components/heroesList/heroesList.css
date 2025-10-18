@@ -1,0 +1,21 @@
+.hero-item-enter {
+	opacity: 0;
+	max-height: 0;
+}
+
+.hero-item-enter-active {
+	opacity: 1;
+	max-height: 500px;
+	transition: all 0.5s ease;
+}
+
+.hero-item-exit {
+	opacity: 1;
+	max-height: 500px;
+}
+
+.hero-item-exit-active {
+	opacity: 0;
+	max-height: 0;
+	transition: all 0.5s ease;
+}
